@@ -1,0 +1,6 @@
+--------------- Build Started: 11/28/2018 16:52:50 Project: Design01, Configuration: ARM GCC 5.4-2016-q2-update Debug ---------------
+cydsfit.exe -.appdatapath "C:\Users\Heitkemperpe\AppData\Local\Cypress Semiconductor\PSoC Creator\4.1" -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p Z:\School\Design01.Bundle01\Design01.cydsn\Design01.cyprj -d CY8C4247AZI-M485 -s Z:\School\Design01.Bundle01\Design01.cydsn\Generated_Source\PSoC4 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE
+Elaborating Design...
+Error: bse.M0106: TopDesign.cysch: Unable to open the file for reading. File not found (File=C:\Users\heitkemperpe\Documents\PSoC Creator\Workspace01\Design01.cydsn\TopDesign\TopDesign.cysch)
+Error: fit.M0050: The fitter aborted due to errors, please address all errors and rebuild. (App=cydsfit)
+--------------- Build Failed: 11/28/2018 16:52:52 ---------------

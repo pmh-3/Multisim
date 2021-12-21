@@ -1,0 +1,58 @@
+Loading plugins phase: Elapsed time ==> 0s.129ms
+<CYPRESSTAG name="CyDsfit arguments...">
+cydsfit arguments: -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p Z:\School\Clock Display\LAB 6.cydsn\LAB 6.cyprj -d CY8C4247AZI-M485 -s Z:\School\Clock Display\LAB 6.cydsn\Generated_Source\PSoC4 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE
+</CYPRESSTAG>
+<CYPRESSTAG name="Design elaboration results...">
+ADD: sdb.M0018: error: Multiple drivers on signal "Net_32", bit(s) "0".
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Signal: Net_32)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_137.3)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_137.4)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_139)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_195)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_196)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_197)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_198)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_36.4)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_49.2)
+
+ADD: sdb.M0018: error: Multiple drivers on signal "Net_33", bit(s) "0".
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Signal: Net_33)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_117)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_133.3)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_133.4)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_134)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_135)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_136)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_36.5)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_48.2)
+
+ADD: sdb.M0017: error: No drivers on signal "Net_29", bit(s) "0".
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Signal: Net_29)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_22)
+
+ADD: sdb.M0018: error: Multiple drivers on signal "Net_34", bit(s) "0".
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Signal: Net_34)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_129.3)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_129.4)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_131)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_203)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_204)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_205)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_206)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_36.6)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_47.2)
+
+ADD: sdb.M0018: error: Multiple drivers on signal "Net_35", bit(s) "0".
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Signal: Net_35)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_125.3)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_125.4)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_127)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_199)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_200)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_201)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_202)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_36.7)
+ * Z:\School\Clock Display\LAB 6.cydsn\TopDesign\TopDesign.cysch (Shape_46.2)
+
+</CYPRESSTAG>
+Elaboration phase: Elapsed time ==> 0s.749ms

@@ -1,0 +1,6 @@
+Z:\School\Clock Display\LAB 6.cydsn\LAB 6.cyprj|24e4c51e-33a6-4d2b-a596-81e69cb64f73
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|bd9fbfd9-8d88-4074-9d87-ab9cd9389b67
+C:\Users\Heitkemperpe\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|d445930d-178a-4c08-bb8f-e281a4ba8399
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|f4a13a8d-a3b6-47f4-9212-fbf832c8ef2e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|75b13ed2-310c-4e30-9baa-81f8b908680c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|f0d57b1c-4741-43f9-9b2d-82aa9168f68a
